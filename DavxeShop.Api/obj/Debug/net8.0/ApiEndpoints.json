@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DavxeShop.Api.ValuesController",
+    "Method": "PostFlightData",
+    "RelativePath": "api/flightData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "flightData",
+        "Type": "DavxeShop.Models.FlightData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

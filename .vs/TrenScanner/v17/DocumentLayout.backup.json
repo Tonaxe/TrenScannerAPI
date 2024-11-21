@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49DAEFA-2650-447E-A050-A733B788F0C5}|DavxeShop.Library\\DavxeShop.Library.csproj|c:\\users\\yassi\\desktop\\daw\\webscraping\\trenscannerapi\\davxeshop\\davxeshop.library\\seleniumscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49DAEFA-2650-447E-A050-A733B788F0C5}|DavxeShop.Library\\DavxeShop.Library.csproj|solutionrelative:davxeshop.library\\seleniumscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E0DB94-7997-489C-9115-84658715BC5C}|DavxeShop.Models\\DavxeShop.Models.csproj|c:\\users\\yassi\\desktop\\daw\\webscraping\\trenscannerapi\\davxeshop\\davxeshop.models\\flightdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E0DB94-7997-489C-9115-84658715BC5C}|DavxeShop.Models\\DavxeShop.Models.csproj|solutionrelative:davxeshop.models\\flightdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D490FD57-C6A4-4740-BEA8-6E63ACCBE3B5}|DavxeShop.Api\\DavxeShop.Api.csproj|c:\\users\\yassi\\desktop\\daw\\webscraping\\trenscannerapi\\davxeshop\\davxeshop.api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D490FD57-C6A4-4740-BEA8-6E63ACCBE3B5}|DavxeShop.Api\\DavxeShop.Api.csproj|solutionrelative:davxeshop.api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeleniumScript.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Library\\SeleniumScript.cs",
+              "RelativeDocumentMoniker": "DavxeShop.Library\\SeleniumScript.cs",
+              "ToolTip": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Library\\SeleniumScript.cs",
+              "RelativeToolTip": "DavxeShop.Library\\SeleniumScript.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:28:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Api\\ValuesController.cs",
+              "RelativeDocumentMoniker": "DavxeShop.Api\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Api\\ValuesController.cs",
+              "RelativeToolTip": "DavxeShop.Api\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:04:01.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightData.cs",
+              "DocumentMoniker": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Models\\FlightData.cs",
+              "RelativeDocumentMoniker": "DavxeShop.Models\\FlightData.cs",
+              "ToolTip": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Models\\FlightData.cs",
+              "RelativeToolTip": "DavxeShop.Models\\FlightData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:02:42.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

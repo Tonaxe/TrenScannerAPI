@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DavxeShop.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DavxeShop.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DavxeShop.Models.dll": {}
+        }
+      },
+      "DavxeShop.Persistance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DavxeShop.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DavxeShop.Persistance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DavxeShop.Persistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DavxeShop.Models/1.0.0": {
+      "type": "project",
+      "path": "../DavxeShop.Models/DavxeShop.Models.csproj",
+      "msbuildProject": "../DavxeShop.Models/DavxeShop.Models.csproj"
+    },
+    "DavxeShop.Persistance/1.0.0": {
+      "type": "project",
+      "path": "../DavxeShop.Persistance/DavxeShop.Persistance.csproj",
+      "msbuildProject": "../DavxeShop.Persistance/DavxeShop.Persistance.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DavxeShop.Models >= 1.0.0",
+      "DavxeShop.Persistance >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yassi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Library\\DavxeShop.Library.csproj",
+      "projectName": "DavxeShop.Library",
+      "projectPath": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Library\\DavxeShop.Library.csproj",
+      "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Library\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\yassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Models\\DavxeShop.Models.csproj": {
+              "projectPath": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Models\\DavxeShop.Models.csproj"
+            },
+            "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Persistance\\DavxeShop.Persistance.csproj": {
+              "projectPath": "C:\\Users\\yassi\\Desktop\\DAW\\webscraping\\TrenScannerApi\\DavxeShop\\DavxeShop.Persistance\\DavxeShop.Persistance.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
